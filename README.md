@@ -7,8 +7,8 @@ https://garanceguinet.github.io/application-javascript-azertype/
 
 ## Contexte du projet
 
-Ce projet a été réalisé dans un contexte d'autoformation intensive au développement web, en parallèle d'une activité professionnelle à temps plein.
-Il s'agit de ma première application JavaScript complète, developpée après l'apprentissage des bases du langage, avec un accent particulier sur la logique de programmation et les interactions utilisateur.
+Ce projet a été réalisé dans un contexte d'autoformation intensive au développement web à partir des cours en libre accès de la plateforme OpenClassrooms, en parallèle d'une activité professionnelle à temps plein.
+Il s'agit d'un projet fil rouge visant à mettre en pratique les bases du JavaScript, avec un accent particulier sur la logique de programmation et les interactions utilisateur.
 
 ## Description
 Application web interactive permettant de s'entraîner à taper plus vite au clavier. L'utilisateur est invité à saisir des mots ou des phrases.
