@@ -1,5 +1,10 @@
 # Projet JavaScript - Application Azertype
 
+## Démo en ligne
+
+Accéder à l'application :
+https://garanceguinet.github.io/application-javascript-azertype/
+
 Projet réalisé dans le cadre de mon autoformation en JavaScript.
 
 ## Description
