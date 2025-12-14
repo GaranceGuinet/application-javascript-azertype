@@ -37,7 +37,7 @@ Application web interactive permettant de s'entraîner à taper plus vite au cla
 1. Cloner le repository
 2. Ouvrir le fichier `index.html` dans un navigateur
 
-## Améliorations possibles
+## Amélioration possible
 - Ajout d'un chronomètre pour mesurer la vitesse de frappe
 
 
