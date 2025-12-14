@@ -5,13 +5,13 @@
 Accéder à l'application :
 https://garanceguinet.github.io/application-javascript-azertype/
 
-> Projet réalisé dans le cadre de mon autoformation en JavaScript.
-> L'objectif était de découvrir et de mettre en pratique les bases de la logique de programmation, la gestion des évenements et la manipulation du DOM.
+## Contexte du projet
+
+Ce projet a été réalisé dans un contexte d'autoformation intensive au développement web, en parallèle d'une activité professionnelle à temps plein.
+Il s'agit de ma première application JavaScript complète, developpée après l'apprentissage des bases du langage, avec un accent particulier sur la logique de programmation et les interactions utilisateur.
 
 ## Description
-Application web interactive permettant de s'entraîner à taper plus vite au clavier. L'utilisateur doit saisir des mots ou des phrases.
-
-Ce projet m'a permis de mettre en pratique la logique de programmation en JavaScript ainsi que la manipulation du DOM et des événements.
+Application web interactive permettant de s'entraîner à taper plus vite au clavier. L'utilisateur est invité à saisir des mots ou des phrases.
 
 ## Fonctionnalités
 - Affichage dynamique de mots ou phrases
@@ -20,15 +20,26 @@ Ce projet m'a permis de mettre en pratique la logique de programmation en JavaSc
 - Gestion du score
 - Interaction utilisateur avec JavaScript
 
+## Compétences mises en oeuvre
+
+- Compréhension et application de la logique conditionnelle
+- Manipulation du DOM (selection, modification dynamique)
+- Gestion des événements utilisateurs (clics, saisie clavier)
+- Structuration d'un projet JavaScript simple
+- Débogage et résolution de problèmes
+
 ## Technologies utilisées
 - HTML
 - CSS
 - JavaScript
 
-## Objectifs pédagogiques
-Apprendre à structurer une application JavaScript et à gérer des interactions utilisateur.
-Ce projet correspond à ma première application complète réalisée en JavaScript.
-
 ## Installation
 1. Cloner le repository
 2. Ouvrir le fichier `index.html` dans un navigateur
+
+## Améliorations possibles
+- Ajout d'un chronomètre pour mesurer la vitesse de frappe
+
+
+Ce projet s'inscrit dans ma démarche de reconversion vers le développement web et dans ma recherche d'une alternance, avec une forte motivation à progresser rapidement et à m'investir pleinement en entreprise.
+
