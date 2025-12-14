@@ -5,7 +5,8 @@
 Accéder à l'application :
 https://garanceguinet.github.io/application-javascript-azertype/
 
-Projet réalisé dans le cadre de mon autoformation en JavaScript.
+> Projet réalisé dans le cadre de mon autoformation en JavaScript.
+> L'objectif était de découvrir et de mettre en pratique les bases de la logique de programmation, la gestion des évenements et la manipulation du DOM.
 
 ## Description
 Application web interactive permettant de s'entraîner à taper plus vite au clavier. L'utilisateur doit saisir des mots ou des phrases.
