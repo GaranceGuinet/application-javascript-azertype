@@ -22,3 +22,7 @@ Ce projet m'a permis de mettre en pratique la logique de programmation en JavaSc
 ## Objectifs pédagogiques
 Apprendre à structurer une application JavaScript et à gérer des interactions utilisateur.
 Ce projet correspond à ma première application complète réalisée en JavaScript.
+
+## Installation
+1. Cloner le repository
+2. Ouvrir le fichier `index.html` dans un navigateur
