@@ -41,5 +41,4 @@ Application web interactive permettant de s'entraîner à taper plus vite au cla
 - Ajout d'un chronomètre pour mesurer la vitesse de frappe
 
 
-Ce projet s'inscrit dans ma démarche de reconversion vers le développement web et dans ma recherche d'une alternance, avec une forte motivation à progresser rapidement et à m'investir pleinement en entreprise.
 
